@@ -9,9 +9,9 @@ $\theta$ is the rate of mean inversion, $\sigma$ is the volatility, $dW_t$ is th
 
 <B> Solution to the above equation can be estimated by the Euler-Maruyama method :</B>
 
-$X_{t+\delta t } = X_t + \theta (\mu - X_t)dt + \sigma \sqrt{\delta t} \Z_t$ 
+$X_{t+\delta t } = X_t + \theta (\mu - X_t)dt + \sigma \sqrt{\delta t} Z_t$ 
 
-where $\Z_t$ is the gaussian process 
+where $Z_t$ is the gaussian process 
 
 you can play with interactive simulation for the Ornstien process.
 
