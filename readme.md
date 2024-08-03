@@ -2,7 +2,7 @@
 ## Ornstein-Uhlenbeck process simulation in python 
 #### The Ornstein-Uhlenbeck process is defined by the following SDE:
 
-$ dX_{t} = \theta(\mu-X_t)dt + \sigma(dW_t) $
+$dX_{t} = \theta(\mu-X_t)dt + \sigma(dW_t)$
 
 where $\mu$ is the log term mean, 
 $\theta$ is the rate of mean inversion, $\sigma$ is the volatility, $dW_t$ is the Wiener process (or standard Brownian motion)
