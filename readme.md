@@ -15,5 +15,9 @@ where $Z_t$ is the gaussian process
 
 you can play with interactive simulation for the Ornstien process.
 
+## Using the OU process for the pair trading 
+
+coming more .... (better complete this )
+
 
 ​
